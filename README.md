@@ -1,2 +1,3 @@
 # Codes-Py
- Códigos em Python
+
+Repositório criado para colocação de alguns códigos em Python que estou escrevendo para aprender a programar.
