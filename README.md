@@ -1,5 +1,5 @@
 # Codes-Py
 
-Repositório criado para colocação de alguns códigos em Python que estou escrevendo para aprender a programar.
+Repositório criado para colocação de alguns códigos em **Python** que estou escrevendo para aprender a programar.
 
-Estou escrevendo diretamente pelo Github.
+*Estou escrevendo diretamente pelo Github*.
